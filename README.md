@@ -25,10 +25,5 @@ Currently, I'm working on **Diffusion Models and their variations**.
 
 ## 📫 Connect with Me
 - **Email:** [sabafathi1802@gmail.com]
-- **LinkedIn:** []
-- **GitHub:** [github.com/sabafathi11]
-
----
-
-> _"I believe in clean, reproducible, and impactful research code."_  
-> _Always learning, always building._
+- **LinkedIn:** [www.linkedin.com/in/saba-fathi-336b79382]
+- **GitHub:** [https://github.com/sabafathi11]
