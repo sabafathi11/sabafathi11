@@ -18,7 +18,7 @@ Currently, I'm working on **Diffusion Models and their variations**.
 - **Programming**: Python
 - **Deep Learning**: PyTorch, TensorFlow/Keras
 - **Data Science**: NumPy, Pandas, Matplotlib
-- **Tools**: Git, Docker, Jupyter, Colab
+- **Tools**: Git, Kaggle, Jupyter, Colab
 - **Areas**: Computer Vision, Generative Models, Diffusion, NLP
 
 ---
